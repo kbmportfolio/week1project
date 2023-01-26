@@ -1,0 +1,15 @@
+.parent-box {
+    background-color: gray;
+    width: 500px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+/*
+.contact-box, .pricing-box., download-box {
+    margin: 20px;
+    border: 1px solid white;
+    padding: 20px;
+}
+*/
